@@ -8,8 +8,4 @@
 # Terraform lock file
 .terraform.lock.hcl
 # documents
-<<<<<<< HEAD
-*.doc
-=======
-*.doc
->>>>>>> e6db49e4e6c3e9872e8b3ca0174d4889abfaac7c
+*.docls
